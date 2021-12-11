@@ -1,5 +1,5 @@
 This folder contains the necessary files to recreate the datasets and analyses in "Natalie Ayers - Quantiative Security Final Paper.pdf"
-	This paper is a replication of the main results of Dugan and Chenoweth's "Moving Beyond Deterrence: The Effectiveness of Raising the Expected Utility of Abstaining from Terrorism in Israel" (2013) in the American Sociological Review.
+	This paper is a replication of the main results of Dugan and Chenoweth's "Moving Beyond Deterrence: The Effectiveness of Raising the Expected Utility of Abstaining from Terrorism in Israel" (2012) in the American Sociological Review.
 	In addition to replicating the main results, I performed an extension using the RAND Database of Worldwide Terrorism Incidents in place of the Global Terrorism Database.
 
 
